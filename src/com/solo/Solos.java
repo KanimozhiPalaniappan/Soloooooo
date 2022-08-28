@@ -6,7 +6,7 @@ public class Solos {
 	
 	         public static void main(String[] args) {
 					
-			        int a[]= {1, 2, 3, 4, 5};
+			        int b[]= {1, 2, 3, 4, 5};
 			    int sum=0;
 
 			    for (int i = 0; i<=10; i++) {
@@ -14,7 +14,7 @@ public class Solos {
 				}
 				System.out.println(sum);
 
-			    int n=a.length;
+			    int n=b.length;
 
 				int average= sum/n;	
 
